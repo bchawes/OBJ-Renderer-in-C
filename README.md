@@ -21,11 +21,17 @@ documentation of the use of this technology is essential to establish a proper r
 between programmers and AI. 
 ------------------------------------------------------------------------------------------------
 |Rotate:                              Right Click + Drag
+
 |Move:                                Left Click + Drag
+
 |Zoom In/Out:                         Scroll
+
 |Change Brightness/RenderDistance:    -/+
+
 |Increase/Decrease Line Thickness:    W/S
+
 |Reset Model:                         R
+
 ------------------------------------------------------------------------------------------------
 When opening the application (Located in Cmake-Build-Debug), the program will prompt the user
 for a file directory. Input an OBJ file and it should work!
