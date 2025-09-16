@@ -36,11 +36,11 @@ between programmers and AI.
   | || | | \__ \ |_| |  | |_| | (__| |_| | (_) | | | \__ \
  |___|_| |_|___/\__|_|   \__,_|\___|\__|_|\___/|_| |_|___/
 ------------------------------------------------------------------------------------------------
-Rotate:                              Right Click + Drag
-Move:                                Left Click + Drag
-Zoom In/Out:                         Scroll
-Change Brightness/RenderDistance:    -/+
-Increase/Decrease Line Thickness:    W/S
+|Rotate:                              Right Click + Drag
+|Move:                                Left Click + Drag
+|Zoom In/Out:                         Scroll
+|Change Brightness/RenderDistance:    -/+
+|Increase/Decrease Line Thickness:    W/S
 ------------------------------------------------------------------------------------------------
 Default model (for genuinely no reason) is Hatsune Miku! To Swap this out, find an OBJ file and
 copy it's values to the miku.obj file in the cmake-build-debug!
