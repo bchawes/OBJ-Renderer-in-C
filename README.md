@@ -1,13 +1,4 @@
-\*# OBJ-Renderer-in-C
-\*   /$$$$$$  /$$$$$$$     /$$$$$       /$$$$$$$                            /$$                    
-\*  /$$__  $$| $$__  $$   |__  $$      | $$__  $$                          | $$                    
-\* | $$  \ $$| $$  \ $$      | $$      | $$  \ $$  /$$$$$$  /$$$$$$$   /$$$$$$$  /$$$$$$   /$$$$$$ 
-\* | $$  | $$| $$$$$$$       | $$      | $$$$$$$/ /$$__  $$| $$__  $$ /$$__  $$ /$$__  $$ /$$__  $$
-\* | $$  | $$| $$__  $$ /$$  | $$      | $$__  $$| $$$$$$$$| $$  \ $$| $$  | $$| $$$$$$$$| $$  \__/
-\* | $$  | $$| $$  \ $$| $$  | $$      | $$  \ $$| $$_____/| $$  | $$| $$  | $$| $$_____/| $$      
-\* |  $$$$$$/| $$$$$$$/|  $$$$$$/      | $$  | $$|  $$$$$$$| $$  | $$|  $$$$$$$|  $$$$$$$| $$      
-\*  \______/ |_______/  \______/       |__/  |__/ \_______/|__/  |__/ \_______/ \_______/|__/      
-                                                                                                
+`# OBJ-Renderer-in-C                                                                     
 (A "quick" test of CPU based rendering in C!)
 ------------------------------------------------------------------------------------------------
 Created By Bryce Hawes, In July and September 2025
@@ -29,18 +20,13 @@ benefit to both learning and improving as a coder. I believe the ethical use and
 documentation of the use of this technology is essential to establish a proper relationship
 between programmers and AI. 
 
-------------------------------------------------------------------------------------------------
-  ___           _                   _   _                 
- |_ _|_ __  ___| |_ _ __ _   _  ___| |_(_) ___  _ __  ___ 
-  | || '_ \/ __| __| '__| | | |/ __| __| |/ _ \| '_ \/ __|
-  | || | | \__ \ |_| |  | |_| | (__| |_| | (_) | | | \__ \
- |___|_| |_|___/\__|_|   \__,_|\___|\__|_|\___/|_| |_|___/
-------------------------------------------------------------------------------------------------
 |Rotate:                              Right Click + Drag
 |Move:                                Left Click + Drag
 |Zoom In/Out:                         Scroll
 |Change Brightness/RenderDistance:    -/+
 |Increase/Decrease Line Thickness:    W/S
+
 ------------------------------------------------------------------------------------------------
-Default model (for genuinely no reason) is Hatsune Miku! To Swap this out, find an OBJ file and
-copy it's values to the miku.obj file in the cmake-build-debug!\*
+When opening the application (Located in Cmake-Build-Debug), the program will prompt the user
+for a file directory. Input an OBJ file and it should work!
+`
