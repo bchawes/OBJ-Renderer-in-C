@@ -1,4 +1,4 @@
-`# OBJ-Renderer-in-C                                                                     
+# OBJ-Renderer-in-C                                                                     
 (A "quick" test of CPU based rendering in C!)
 ------------------------------------------------------------------------------------------------
 Created By Bryce Hawes, In July and September 2025
@@ -19,7 +19,7 @@ Utilizing AI as a programming tool for debugging and performance improvement pur
 benefit to both learning and improving as a coder. I believe the ethical use and proper 
 documentation of the use of this technology is essential to establish a proper relationship
 between programmers and AI. 
-
+------------------------------------------------------------------------------------------------
 |Rotate:                              Right Click + Drag
 |Move:                                Left Click + Drag
 |Zoom In/Out:                         Scroll
@@ -29,4 +29,3 @@ between programmers and AI.
 ------------------------------------------------------------------------------------------------
 When opening the application (Located in Cmake-Build-Debug), the program will prompt the user
 for a file directory. Input an OBJ file and it should work!
-`
