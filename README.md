@@ -1,4 +1,4 @@
-'# OBJ-Renderer-in-C
+\*# OBJ-Renderer-in-C
   /$$$$$$  /$$$$$$$     /$$$$$       /$$$$$$$                            /$$                    
  /$$__  $$| $$__  $$   |__  $$      | $$__  $$                          | $$                    
 | $$  \ $$| $$  \ $$      | $$      | $$  \ $$  /$$$$$$  /$$$$$$$   /$$$$$$$  /$$$$$$   /$$$$$$ 
@@ -43,4 +43,4 @@ between programmers and AI.
 |Increase/Decrease Line Thickness:    W/S
 ------------------------------------------------------------------------------------------------
 Default model (for genuinely no reason) is Hatsune Miku! To Swap this out, find an OBJ file and
-copy it's values to the miku.obj file in the cmake-build-debug!'
+copy it's values to the miku.obj file in the cmake-build-debug!\*
