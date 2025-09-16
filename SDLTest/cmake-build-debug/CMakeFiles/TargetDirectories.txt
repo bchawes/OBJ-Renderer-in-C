@@ -1,3 +1,0 @@
-/Users/brycehawes/CLionProjects/SDLTest/cmake-build-debug/CMakeFiles/SDLTest.dir
-/Users/brycehawes/CLionProjects/SDLTest/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/brycehawes/CLionProjects/SDLTest/cmake-build-debug/CMakeFiles/rebuild_cache.dir
