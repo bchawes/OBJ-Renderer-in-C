@@ -25,7 +25,7 @@ between programmers and AI.
 |Zoom In/Out:                         Scroll
 |Change Brightness/RenderDistance:    -/+
 |Increase/Decrease Line Thickness:    W/S
-
+|Reset Model:                         R
 ------------------------------------------------------------------------------------------------
 When opening the application (Located in Cmake-Build-Debug), the program will prompt the user
 for a file directory. Input an OBJ file and it should work!
